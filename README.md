@@ -1,4 +1,4 @@
-### Hello, it's Bryan-Ahn's github! 👋
+### Hello, wellcome to Bryan-Ahn's github! 👋
 
 <!--
 **Bryan-Ahn/Bryan-Ahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
