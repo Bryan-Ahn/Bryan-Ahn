@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/Linux-FFCC00?style=flat-square&logo=Linux&logoColor=black">
+<img src="https://img.shields.io/badge/Linux-FFCC00?style=flat-square&logo=Linux&logoColor=black"/>
 <img src="https://img.shields.io/badge/macOS-99CCCC?style=flat-square&logo=Linux&logoColor=black"/><br/>
 ![Bryan-Ahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bryan-Ahn&show_icons=true&theme=react)
